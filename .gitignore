@@ -1,0 +1,9 @@
+venv/
+simulator/
+udacity-self-driving-car-lake/
+self_driving_car_dataset_lake/
+IMG/
+*.mp4
+steer_log.csv
+__pycache__/
+.ipynb_checkpoints/

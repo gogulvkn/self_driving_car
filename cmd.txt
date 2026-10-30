@@ -1,0 +1,5 @@
+cd C:\Users\admin\self_driving_car
+py -3.11 -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt ===> if not installed
+python drive.py model.keras
