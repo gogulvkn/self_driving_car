@@ -4,8 +4,6 @@ A CNN that learns to steer a car in the [Udacity Self-Driving Car Simulator](htt
 
 **Demo video:** [click here](https://www.youtube.com/watch?v=ZsVFIaq4Y40)
 
-<a href="https://youtube.com/your-link" target="_blank">Watch on YouTube</a>
-
 ## How it works
 1. Drive the lake track in the simulator's Training Mode and record (center, left and right camera images + steering).
 2. Train a CNN to predict steering from the camera image.
