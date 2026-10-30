@@ -2,7 +2,7 @@
 
 A CNN that learns to steer a car in the [Udacity Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim) from front-camera images (PilotNet-style, Keras).
 
-**Demo video:** ADD_YOUR_VIDEO_LINK_HERE
+**Demo video:** [ADD_YOUR_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=ZsVFIaq4Y40)
 
 ## How it works
 1. Drive the lake track in the simulator's Training Mode and record (center, left and right camera images + steering).
